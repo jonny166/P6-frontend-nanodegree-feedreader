@@ -41,3 +41,6 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 # How to run this project:
 Host the project directory from your webserver.  The tests will automatically run when you visit the site with your web browser.
 The expected result is to see "8 specs, 0 failures".
+
+# Future Work:
+We could add additional tests that make sure all the links work on the feeds
